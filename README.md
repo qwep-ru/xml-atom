@@ -1,8 +1,8 @@
-sabre/xml-atom
+scroller123/xml-atom
 ===============
 
 This package contains a reader and writer for the [Atom XML format][5].
-It also serves as a sample implementation of the [sabre/xml][6] package.
+It also serves as a sample implementation of the [scroller123/xml][6] package.
 
 
 Installation
@@ -10,21 +10,17 @@ Installation
 
 Make sure you have [composer][1] installed, and then run:
 
-    composer require sabre/xml-atom
+    composer require scroller123/xml-atom
 
 
 Build status
 ------------
 
-| branch | status |
-| ------ | ------ |
-| master | [![Build Status](https://travis-ci.org/fruux/sabre-xml-atom.png?branch=master)](https://travis-ci.org/fruux/sabre-xml-atom) |
-
 
 Questions?
 ----------
 
-Head over to the [sabre/dav mailinglist][2], or you can also just open a ticket
+Head over to the [scroller123/dav mailinglist][2], or you can also just open a ticket
 on [GitHub][3].
 
 
