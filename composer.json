@@ -8,10 +8,10 @@
         "rfc4287"
     ],
     "homepage": "http://sabre.io/dav/",
-    "license": "BSD-3-Clause",
+    "license" : "MIT",
     "require": {
         "php"       : ">=5.5",
-        "scroller123/sabre-xml" : ">=1.5.1"
+        "scroller123/sabre-xml" : "dev-master"
     },
     "authors": [
         {
