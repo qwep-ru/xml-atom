@@ -1,6 +1,6 @@
 {
-    "name": "scroller123/xml-atom",
-    "description": "A reader and writer for the Atom format",
+    "name": "qwep-ru/xml-atom",
+    "description": "Fork of scroller123/xml-atom",
     "keywords": [
         "sabre",
         "xml",
@@ -11,19 +11,7 @@
     "license" : "MIT",
     "require": {
         "php"       : ">=5.5",
-        "scroller123/sabre-xml": "^1.5"
-    },
-    "authors": [
-        {
-            "name": "Evert Pot",
-            "email": "me@evertpot.com",
-            "homepage": "http://evertpot.com/",
-            "role": "Developer"
-        }
-    ],
-    "support": {
-        "forum": "https://groups.google.com/group/sabredav-discuss",
-        "source": "https://github.com/fruux/sabre-skel"
+        "qwep-ru/sabre-xml": "^1.5"
     },
     "autoload": {
         "psr-4" : {
